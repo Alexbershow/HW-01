@@ -14,9 +14,7 @@ LICENSE: [MET](/license.md "license")
 
 3. [Первые команды](/content/Первые%20команды.md)
 
-4. [Команды git init, git add, git commit, git help, git log](/content/Команды%20git%20init,%20git%20add,%20git%20commit,%20git%20help,%20git%20log.md)
-
-5. Удаление файлов из репозитории
+4. [Команды git](/content/Команды%20git%20init,%20git%20add,%20git%20commit,%20git%20help,%20git%20log.md)
 
 6. Коммит и добавление файлов в зону индексов
 
